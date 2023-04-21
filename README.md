@@ -29,7 +29,7 @@ Fokus pada proyek ini adalah Mencari Faktor-Faktor Yang Mempengaruhi Kecelakaan 
 
 Anggota Kelompok 3:
 
-* <a href="">Haarisah Yustika Putri Al-Jufri</a>
+* <a href="https://github.com/haarisahjufri0311">Haarisah Yustika Putri Al-Jufri</a>
 * <a href="https://github.com/onynovianti">Ony Novianti</a>
 * <a href="https://github.com/renaldi-oss">Reynaldi Fakhri Pratama</a>
 
