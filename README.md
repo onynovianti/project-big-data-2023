@@ -15,7 +15,8 @@
 
 - [Introduction](#introduction)
 - [Kelompok](#kelompok)
-- [Kode](#kode)
+- [Pandas](#pandas)
+- [Spark](#spark)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -33,6 +34,10 @@ Anggota Kelompok 3:
 * <a href="https://github.com/onynovianti">Ony Novianti</a>
 * <a href="https://github.com/renaldi-oss">Reynaldi Fakhri Pratama</a>
 
-## Kode
+## Pandas
+
+`We are still working on this task`
+
+## Spark
 
 `We are still working on this task`
