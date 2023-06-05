@@ -1,0 +1,19 @@
+Dataset berisi data kecelakaan pesawat yang melibatkan :
+1. Transportasi sipil
+2. Komersial
+3. Militer di seluruh dunia dari 1908-09-17 hingga 2009-06-08.
+
+Info Kolom : 
+Date - Date of the crash
+Time - Time of the crash
+Location - Location of the crash
+Operator - Airline of the plane
+Flight - Flight no. of the plane
+Route - Route taken by plane
+Type - Type of the plane
+Registration - Unique alphanumeric string to identify the plane
+cn/In - Construction or serial number / Line or fuselage number
+Aboard - Number of people aboard
+Fatalities - Lethal outcome
+Ground - Total ground people killed due to crash.
+Summary - Brief summary of the case
