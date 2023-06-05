@@ -40,4 +40,4 @@ Anggota Kelompok 3:
 
 ## PySpark
 
-<a href="https://github.com/onynovianti/project-big-data-2023/blob/ffc066f7bfba937427a24334ca20e97b921728c7/uts.ipynb">Notebook</a>
+<a href="https://github.com/onynovianti/project-big-data-2023/blob/d9e1ada9c277d633d61b2525e561898a80ed5bc1/uts_spark.ipynb">Notebook</a>
