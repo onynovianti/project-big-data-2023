@@ -34,10 +34,19 @@ Anggota Kelompok 3:
 * <a href="https://github.com/onynovianti">Ony Novianti</a>
 * <a href="https://github.com/renaldi-oss">Reynaldi Fakhri Pratama</a>
 
+# Ujian Tengah Semester
 ## Pandas
 
 <a href="https://github.com/onynovianti/project-big-data-2023/blob/ffc066f7bfba937427a24334ca20e97b921728c7/uts.ipynb">Notebook</a>
 
 ## PySpark
 
+<a href="https://github.com/onynovianti/project-big-data-2023/blob/d9e1ada9c277d633d61b2525e561898a80ed5bc1/uts_spark.ipynb">Notebook</a>
+
+# Ujian AKhir Semester
+
+## Penentuan Topik atau Kelas Untuk Klasifikasi
+<a href="https://github.com/onynovianti/project-big-data-2023/blob/d9e1ada9c277d633d61b2525e561898a80ed5bc1/uts_spark.ipynb">Notebook</a>
+
+## Klasifikasi Menggunakan SVC
 <a href="https://github.com/onynovianti/project-big-data-2023/blob/d9e1ada9c277d633d61b2525e561898a80ed5bc1/uts_spark.ipynb">Notebook</a>
