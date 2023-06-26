@@ -46,7 +46,7 @@ Anggota Kelompok 3:
 # Ujian AKhir Semester
 
 ## Penentuan Topik atau Kelas Untuk Klasifikasi
-<a href="https://github.com/onynovianti/project-big-data-2023/blob/d9e1ada9c277d633d61b2525e561898a80ed5bc1/uts_spark.ipynb">Notebook</a>
+<a href="https://github.com/onynovianti/project-big-data-2023/blob/a97f883ad619e1aab7c6afba03e6bd5b21dffa8c/BigData_Penentuan_Topik%20.ipynb">Notebook</a>
 
 ## Klasifikasi Menggunakan SVC
-<a href="https://github.com/onynovianti/project-big-data-2023/blob/d9e1ada9c277d633d61b2525e561898a80ed5bc1/uts_spark.ipynb">Notebook</a>
+<a href="https://github.com/onynovianti/project-big-data-2023/blob/a97f883ad619e1aab7c6afba03e6bd5b21dffa8c/BigData__SVM.ipynb">Notebook</a>
