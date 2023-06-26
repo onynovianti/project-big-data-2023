@@ -1,7 +1,7 @@
 <h1 align="center"> PlaneCrash Detectives </h1> <br>
 <p align="center">
   <a href="https://github.com/onynovianti/project-big-data-2023">
-    <img alt="PlaneCrashDetectives" title="PlaneCrashDetectives" src="https://github.com/onynovianti/project-big-data-2023/blob/master/images/Planecrash.png" width="450">
+    <img alt="PlaneCrashDetectives" title="PlaneCrashDetectives" src="https://github.com/onynovianti/project-big-data-2023/blob/master/src/images/Planecrash.png" width="450">
   </a>
 </p>
 
@@ -38,7 +38,7 @@ Anggota Kelompok 3:
 Fokus pada proyek ini adalah Mencari Faktor-Faktor Yang Mempengaruhi Kecelakaan Pesawat Di Seluruh Dunia menggunakan dataset yang diambil dari https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908.
 
 ## Metode
-Untuk penentuan topik, kami menggunakan <b>LDA (Latent Dirichlet Allocation)</b> yaitu algoritma yang umum digunakan untuk pemodelan topik dalam analisis teks. Alasan mengapa LDA sering digunakan untuk penentuan topik adalah karena keunggulannya dalam mengidentifikasi pola topik yang tersembunyi dalam kumpulan dokumen. <br />
+Untuk penentuan topik, kami menggunakan <b>LDA (Latent Dirichlet Allocation)</b> yaitu algoritma yang umum digunakan untuk pemodelan topik dalam analisis teks. Alasan mengapa LDA sering digunakan untuk penentuan topik adalah karena keunggulannya dalam mengidentifikasi pola topik yang tersembunyi dalam kumpulan dokumen. <br /><br/>
 Kami mengimplementasikan <b>SVC (Support Vector Classifier)</b> yang mana model tersebut adalah implementasi dari SVM atau Support Vector Machine. Alasan kami menggunakan model tersebut adalah karena model tersebut kami anggap mampu untuk menangani proses klasifikasi yang akan kami lakukan untuk memprediksi faktor kecelakaan pesawat pada 1 kolom dalam dataset yaitu kolom Summary.<br />
 
 <!-- ## Setup
@@ -54,16 +54,16 @@ ini. -->
 ## UTS
 ### Pandas
 
-<a href="https://github.com/onynovianti/project-big-data-2023/blob/ffc066f7bfba937427a24334ca20e97b921728c7/uts.ipynb">Notebook</a>
+<a href="https://github.com/onynovianti/project-big-data-2023/blob/f149a5af407d2706c7d3d20974e85368de04e88d/src/uts.ipynb">Notebook</a>
 
 ### PySpark
 
-<a href="https://github.com/onynovianti/project-big-data-2023/blob/d9e1ada9c277d633d61b2525e561898a80ed5bc1/uts_spark.ipynb">Notebook</a>
+<a href="https://github.com/onynovianti/project-big-data-2023/blob/f149a5af407d2706c7d3d20974e85368de04e88d/src/uts_spark.ipynb">Notebook</a>
 
 ## UAS
 
 ### Penentuan Topik atau Kelas Untuk Klasifikasi
-<a href="https://github.com/onynovianti/project-big-data-2023/blob/a97f883ad619e1aab7c6afba03e6bd5b21dffa8c/BigData_Penentuan_Topik%20.ipynb">Notebook</a>
+<a href="https://github.com/onynovianti/project-big-data-2023/blob/f149a5af407d2706c7d3d20974e85368de04e88d/src/BigData_Penentuan_Topik.ipynb">Notebook</a>
 
 ### Klasifikasi Menggunakan SVC
-<a href="https://github.com/onynovianti/project-big-data-2023/blob/a97f883ad619e1aab7c6afba03e6bd5b21dffa8c/BigData__SVM.ipynb">Notebook</a>
+<a href="https://github.com/onynovianti/project-big-data-2023/blob/f149a5af407d2706c7d3d20974e85368de04e88d/src/BigData__SVM.ipynb">Notebook</a>
