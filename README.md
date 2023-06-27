@@ -51,6 +51,10 @@ Untuk melakukan running, pastikan terlebih dahulu model sudah ada pada lokasi ya
 <a href="#"> Notebook</a>
 ini. -->
 
+## Hasil
+Hasil dari penentuan topik yang kami lakukan adalah sebagai berikut : <br/>
+![alt text](./src/images/output.png "hasil output")
+
 ## UTS
 ### Pandas
 
